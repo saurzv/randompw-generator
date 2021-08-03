@@ -20,7 +20,7 @@ from rpg import RandomPassword
 
 ```python
 pw = RandomPassword()
-po.generate()
+pw.generate()
 ```
 
 # Configuration
