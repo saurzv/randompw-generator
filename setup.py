@@ -4,7 +4,7 @@ import pathlib
 HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
-VERSION = '1.0'
+VERSION = '1.0.1'
 DESCRIPTION = 'Random password generator'
 LONG_DESCRIPTION = 'A package that allow to generate random passwords.'
 
