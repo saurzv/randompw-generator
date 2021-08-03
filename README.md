@@ -1,12 +1,14 @@
 # Random Password Generator
 
-Python package to generate random passwords
+Python package to generate random passwords.
 
 # Usage
 
 * Install the package
 
-> pip install randompw-generator
+```bash
+pip install randompw-generator
+```
 
 * Import the package
 
